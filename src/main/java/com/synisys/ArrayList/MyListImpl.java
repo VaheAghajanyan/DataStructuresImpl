@@ -1,4 +1,4 @@
-package com.synisys.List;
+package com.synisys.ArrayList;
 
 import java.util.Arrays;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package com.synisys.List;
+package com.synisys.ArrayList;
 
 public interface MyList {
     void add(Integer element);
